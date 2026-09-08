@@ -1,1 +1,14 @@
 /* Your CSS here. */
+.styling {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile {
+  max-width: 700px;
+  padding: 2rem;
+  background: darkgrey;
+  text-align: center;
+}
